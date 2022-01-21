@@ -26,7 +26,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
-
+|![]()| Walter Panico | Programming | team cutman | [GitHub](https://github.com/walter1245)
 ## Game Design
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
@@ -35,7 +35,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti |  | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
 |![](./data/LuigiGrassini/LuigiGrassiniFoto.jpg) | LuigiGrassini |  | FireMan | [GitHub](https://github.com/Hemsey7)|
 |![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini |  | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
-|![](./data/FrancescoNannini/NanniniFrancesco.jpg) | Francesco Nannini | Game Design | Bombman | [GitHub](https://github.com/BelethThynemenos)|
+|![](./data/FrancescoNannini/NanniniFrancesco.jpg) | Francesco Nannini |  | Bombman | [GitHub](https://github.com/BelethThynemenos)|
 |![](./data/AndreaVanghi/AndreaVanghi.jpg) | Andrea Vanghi | Game Design | Gutsman | [GitHub](https://github.com/VanghiAndrea)|
 
 ## Concept Art
@@ -53,5 +53,5 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | nome cognome | 3D Game Art | team name | [GitHub](https://github.com/cipincipancake)
-|![] | Vittorio Certini | 3D Game Art | Elecman | [GitHub](https://github.com/CertiniVittorio)
+|![] | Vittorio Certini | 3D Game Art | Elecman | [GitHub] (https://github.com/CertiniVittorio)
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Matteo Ledda | 3D Game Art | BombMan | [GitHub](https://github.com/MatteoLedda)
