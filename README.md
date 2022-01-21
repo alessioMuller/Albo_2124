@@ -50,5 +50,5 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-|![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | nome cognome | 3D Game Art | team name | [GitHub](https://github.com/cipincipancake)
+|![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Edoardo Modelli | 3D Game Art | Cutman | [GitHub](https://github.com/cipincipancake)
 
