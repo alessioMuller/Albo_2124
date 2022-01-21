@@ -30,6 +30,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |:---:|---|---|---|---|
 |![](./data/DavideGioan/DavideGioan.jpg) | nome cognome | Game Design | team name | [GitHub](https://github.com/GioanDavide)|
 |![](./data/AndreaCianfanelli/Cinfa.jpg) | Andrea Cianfanelli |  | Cutman | [GitHub](https://github.com/cinfa78)|
+|![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti |  | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
 
 
 ## Concept Art
