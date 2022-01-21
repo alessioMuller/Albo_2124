@@ -25,6 +25,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | nome cognome | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
 |![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
+|![]()| Duccio Pantera | Programming | Elecman | [GitHub](https://github.com/DuccioPantera)|
 
 ## Game Design
 |   | Nome | Corso | Team | Url |
