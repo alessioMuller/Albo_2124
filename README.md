@@ -20,12 +20,11 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 
 ## Programming
 |   | Nome | Corso | Team | Url |
+|![]() | Marco Chechi | Programming | Cutman | [github](https://github.com/Licantropo5)|
 |:---:|---|---|---|---|
 |![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | nome cognome | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
-|![]() | Marco Chechi | Programming | team Cutman | [Github](https://github.com/Licantropo5)|
 |![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
-|![]()| Duccio Pantera | Programming | Elecman | [GitHub](https://github.com/DuccioPantera)|
 
 ## Game Design
 |   | Nome | Corso | Team | Url |
@@ -44,7 +43,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 <<<<<<< HEAD
 |![](./data/MatildaGori/MatildaGori.jpg) | Matilda Gori | Concept Art | Fireman | [GitHub](https://github.com/MatildaGori) </br> [ArtStation](https://www.artstation.com/uf12bbec5)|
 |![](./data/AlbertoBandini/cropped.jpg) | nome cognome | Concept Art | team name | [GitHub](https://github.com/zeboo-svg)|
-
+|![]() | Lorenzo Ferraina | Concept Art | Elecman | [GitHub](https://github.com/Lorenzo-Ferraina)|
 
 
 ## 3D Game Art
