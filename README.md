@@ -20,7 +20,6 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 
 ## Programming
 |   | Nome | Corso | Team | Url |
-|![]() | Marco Chechi | Programming | Cutman | [github](https://github.com/Licantropo5)|
 |:---:|---|---|---|---|
 |![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | nome cognome | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
 |![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
@@ -30,13 +29,13 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |:---:|---|---|---|---|
 |![](./data/DavideGioan/DavideGioan.jpg) | nome cognome | Game Design | team name | [GitHub](https://github.com/GioanDavide)|
 |![](./data/AndreaCianfanelli/Cinfa.jpg) | Andrea Cianfanelli |  | Cutman | [GitHub](https://github.com/cinfa78)|
-|![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti |  | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
+|![](./data/data/AndreaVanghi/AndreaVanghi.jpg) | Andrea Vanghi |  | Gutsman | [GitHub](https://github.com/VanghiAndrea)|
 
 
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-|![](./data/MatildaGori/MatildaGori.jpg) | Matilda Gori |  | Fireman | [GitHub](https://github.com/MatildaGori) </br> [ArtStation](https://www.artstation.com/uf12bbec5)|
+|![](./data/AlbertoBandini/cropped.jpg) | nome cognome | Concept Art | team name | [GitHub](https://github.com/zeboo-svg)|
 
 
 ## 3D Game Art
