@@ -21,8 +21,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Programming
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
+|![]() | Marco Chechi | Programming | Cutman | [github](https://github.com/Licantropo5)|
 |![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | nome cognome | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
-|![](./data/Marco Chechi/Marco Chechi.jpg) | Marco Chechi | Programming | team Cutman | [Github](https://github.com/Licantropo5)|
 |![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
@@ -52,6 +52,6 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-|![](.data\FrancescoLaiali\pfp (2).jpg) | Francesco Laiali | 3D Game Art | team name | [GitHub](https://github.com/FrancescoLaiali)
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | nome cognome | 3D Game Art | team name | [GitHub](https://github.com/cipincipancake)
+|![] | Vittorio Certini | 3D Game Art | Elecman | [GitHub] (https://github.com/CertiniVittorio)
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Matteo Ledda | 3D Game Art | BombMan | [GitHub](https://github.com/MatteoLedda)
