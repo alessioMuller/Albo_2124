@@ -35,7 +35,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-|![](./data/AlbertoBandini/cropped.jpg) | nome cognome | Concept Art | team name | [GitHub](https://github.com/zeboo-svg)|
+|![](./data/MatildaGori/MatildaGori.jpg) | Matilda Gori |  | Fireman | [GitHub](https://github.com/MatildaGori) </br> [ArtStation](https://www.artstation.com/uf12bbec5)|
 
 
 ## 3D Game Art
